@@ -1,0 +1,3 @@
+DBCC CHECKIDENT (mytable, RESEED, 0)
+
+DBCC CHECKIDENT('databasename.dbo.tablename', RESEED, number)
