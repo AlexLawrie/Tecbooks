@@ -1,1 +1,1 @@
-![Image 1](https://imgur.com/Yi3bRHD)
+![Image 1](img/readme/1.png)
